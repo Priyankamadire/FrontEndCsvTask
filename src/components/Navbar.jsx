@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav style={styles.navbar}>
-      <h1 style={styles.logo}>Logo</h1>
+      <h1 style={styles.logo}>Assignment</h1>
       <ul style={styles.navLinks}>
         <li style={styles.navLink}>
           <NavLink to="/" style={styles.navLink}>
